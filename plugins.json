@@ -93,5 +93,17 @@
             ]
          }
       }
+   },
+   {
+      "id":"proxy-saver",
+      "name":"Proxy Saver",
+      "description":"Salva os proxies usados da última vez",
+      "versions":{
+         "v1.0":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/proxysaver/v1-0.dll",
+            "changelog":[
+            ]
+         }
+      }
    }
 ]
