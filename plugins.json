@@ -5,13 +5,25 @@
     "description": "Macro completo upar espada e machado 1.5 e 1.8",
     "versions": {
       "v1.0": {
-        "url": "https://meus-arquivos/plugins/macro-espada_v1.0.dll",
-        "changelog": "Versão inicial com suporte básico para espada."
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v1-0.abp",
+        "changelog": [
+			"Atualização",
+			"Adicionado parametros:",
+			"",
+			"• $espadasmkb reset inicia a macro comando do primeiro baú",
+			"• $espadasmkb noreset inicia a macro a partir do último baú",
+			"",
+			"foi adicionado isso para conseguir reiniciar a macro com spammer, sem exibir a mensgem de dialogo"
+		]
       },
       "v2.0": {
-        "url": "https://meus-arquivos/plugins/macro-espada_v2.0.adv",
-        "changelog": "Melhorias de performance e correções de bugs no macro de espada."
-      }
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v2-0.abp",
+        "changelog": "Resolvido o bug que fazia o bot parar de bater quando o servidor reiniciava"
+      },
+	  "v3.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-0.abp",
+        "changelog": ""
+      },
     }
   }
 ]
