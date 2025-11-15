@@ -1,0 +1,17 @@
+[
+  {
+    "id": "macro-espada",
+    "name": "Macro Espada",
+    "description": "Macro completo upar espada e machado 1.5 e 1.8",
+    "versions": {
+      "v1.0": {
+        "url": "https://meus-arquivos/plugins/macro-espada_v1.0.dll",
+        "changelog": "Versão inicial com suporte básico para espada."
+      },
+      "v2.0": {
+        "url": "https://meus-arquivos/plugins/macro-espada_v2.0.adv",
+        "changelog": "Melhorias de performance e correções de bugs no macro de espada."
+      }
+    }
+  }
+]
