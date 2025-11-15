@@ -25,5 +25,40 @@
         "changelog": ""
       },
     }
+  },
+  {
+    "id": "macro-pesca",
+    "name": "Macro de Pesca",
+    "description": "Totalmente configurável; Pesca na versão 1.8 e 1.5; Guarda os itens em trap MKB;",
+    "versions": {
+      "v1.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v1-0.abp",
+        "changelog": [
+			"Comando: $autopescapro"
+		]
+      },
+      "v2.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v2-0.abp",
+        "changelog": [
+			"• adicionada opção para vender peixe",
+			"Comando: $autopescapro"
+		]
+      },
+	  "v3.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-0.abp",
+        "changelog": [
+			"• resolvido bug de dropar",
+			"• aumento de delay pra conta que tiver ping alto",
+			"Comando: $autopescapro"
+		]
+      },
+	  "v3.1": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-1.abp",
+        "changelog": [
+			"dicionado suporte versão 1.8 Apolo",
+			"Comando: $autopescapro"
+		]
+      },
+    }
   }
 ]
