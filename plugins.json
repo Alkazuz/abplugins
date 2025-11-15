@@ -10,8 +10,8 @@
                "Atualização",
                "Adicionado parametros:",
                "",
-               "• $espadasmkb reset inicia a macro comando do primeiro baú",
-               "• $espadasmkb noreset inicia a macro a partir do último baú",
+               "- $espadasmkb reset inicia a macro comando do primeiro baú",
+               "- $espadasmkb noreset inicia a macro a partir do último baú",
                "",
                "foi adicionado isso para conseguir reiniciar a macro com spammer, sem exibir a mensgem de dialogo"
             ]
@@ -40,15 +40,15 @@
          "v2.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v2-0.abp",
             "changelog":[
-               "• adicionada opção para vender peixe",
+               "- adicionada opção para vender peixe",
                "Comando: $autopescapro"
             ]
          },
          "v3.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-0.abp",
             "changelog":[
-               "• resolvido bug de dropar",
-               "• aumento de delay pra conta que tiver ping alto",
+               "- resolvido bug de dropar",
+               "- aumento de delay pra conta que tiver ping alto",
                "Comando: $autopescapro"
             ]
          },
@@ -69,12 +69,12 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/fungo/v1-0.abp",
             "changelog":[
-               "• Permite guardar em trap de baús mkb ou vender diretamente na loja (vip ou não vip);",
-               "• Permite já enviar o dinheiro da venda para sua conta;",
-               "• Permite executar ações em determinados eventos;",
-               "• Mais otimizado, utiliza menos CPU;",
-               "• Altera automaticamente o slot da fortuna;",
-               "• Totalmente configurável;",
+               "- Permite guardar em trap de baús mkb ou vender diretamente na loja (vip ou não vip);",
+               "- Permite já enviar o dinheiro da venda para sua conta;",
+               "- Permite executar ações em determinados eventos;",
+               "- Mais otimizado, utiliza menos CPU;",
+               "- Altera automaticamente o slot da fortuna;",
+               "- Totalmente configurável;",
                "",
                "Comando: $macrofungo"
             ]
