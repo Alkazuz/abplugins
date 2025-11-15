@@ -60,5 +60,38 @@
 		]
       },
     }
+  },
+  {
+    "id": "macro-fungo",
+    "name": "Macro de Fungo",
+    "description": "Macro de fungo que colhe, planta e vende",
+    "versions": {
+      "v1.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/fungo/v1-0.abp",
+        "changelog": [
+			"• Permite guardar em trap de baús mkb ou vender diretamente na loja (vip ou não vip);",
+			"• Permite já enviar o dinheiro da venda para sua conta;",
+			"• Permite executar ações em determinados eventos;",
+			"• Mais otimizado, utiliza menos CPU;",
+			"• Altera automaticamente o slot da fortuna;",",
+			"• Totalmente configurável;",
+			"",
+			"Comando: $macrofungo"
+		]
+      }
+    }
+  },
+  {
+    "id": "l7-ah",
+    "name": "L7AntiHack",
+    "description": "Deixa o bot com antihack da modpack L7",
+    "versions": {
+      "v1.0": {
+        "url": "https://github.com/Alkazuz/abplugins/raw/refs/heads/main/l7ah/v1-0.adv",
+        "changelog": [
+			"Adiciona verificado na modpack"
+		]
+      }
+    }
   }
 ]
