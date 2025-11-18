@@ -109,5 +109,17 @@
             ]
          }
       }
+   },
+   {
+      "id":"miner",
+      "name":"Mineração",
+      "description":"Minera em trap no Mundo 1",
+      "versions":{
+         "v1.0":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v1-0.adv",
+            "changelog":[
+            ]
+         }
+      }
    }
 ]
