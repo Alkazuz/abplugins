@@ -121,5 +121,17 @@
             ]
          }
       }
+   },
+   {
+      "id":"vip",
+      "name":"VIP",
+      "description":"Verificar se o bot é VIP na craftlandia",
+      "versions":{
+         "v1.0":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/vip/v1-0.dll",
+            "changelog":[
+            ]
+         }
+      }
    }
 ]
