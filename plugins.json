@@ -62,6 +62,13 @@
                "dicionado suporte versão 1.8 Apolo",
                "Comando: $autopescapro"
             ]
+         },
+         "v3.2":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-2.adv",
+            "changelog":[
+               "Corrigido problema de guardar os itens",
+               "Comando: $autopescapro"
+            ]
          }
       }
    },
@@ -118,6 +125,12 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v1-0.adv",
             "changelog":[
+            ]
+         },
+		 "v2.0":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-0.adv",
+            "changelog":[
+			 "Comando: $mineracao"
             ]
          }
       }
