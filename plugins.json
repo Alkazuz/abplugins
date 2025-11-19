@@ -135,6 +135,15 @@
 			 "Tutorial: https://youtu.be/R3I23lHv_A0",
 			 "Comando: $mineracao"
             ]
+         },
+		 "v2.1":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-1.adv",
+            "changelog":[
+			 "Ajustado a velocidade de mineração",
+			 "",
+			 "Tutorial: https://youtu.be/R3I23lHv_A0",
+			 "Comando: $mineracao"
+            ]
          }
       }
    },
