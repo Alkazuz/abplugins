@@ -125,11 +125,14 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v1-0.adv",
             "changelog":[
+				"Tutorial: https://youtu.be/R3I23lHv_A0",
+				"Comando: $mineracao"
             ]
          },
 		 "v2.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-0.adv",
             "changelog":[
+			 "Tutorial: https://youtu.be/R3I23lHv_A0",
 			 "Comando: $mineracao"
             ]
          }
