@@ -75,6 +75,7 @@
             "changelog":[
                "Corrigido armazenamento",
 			   "Corrigido autoeat",
+			   "",
                "Comando: $autopescapro"
             ]
          }
