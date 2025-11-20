@@ -27,6 +27,14 @@
          "v3.1":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-1.adv",
             "changelog":"Corrigido versão 1.8"
+         },
+         "v3.1":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-1.adv",
+            "changelog":[
+				"Ajustado armazenamento",
+				"",
+				"Comando: $espadasmkb"
+			]
          }
       }
    },
