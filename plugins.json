@@ -28,13 +28,13 @@
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-1.adv",
             "changelog":"Corrigido versão 1.8"
          },
-         "v3.1":{
-            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-1.adv",
+         "v3.2":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/espadasmkb/v3-2.adv",
             "changelog":[
-				"Ajustado armazenamento",
-				"",
-				"Comando: $espadasmkb"
-			]
+               "Ajustado armazenamento",
+               "",
+               "Comando: $espadasmkb"
+            ]
          }
       }
    },
@@ -82,8 +82,8 @@
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-3.adv",
             "changelog":[
                "Corrigido armazenamento",
-			   "Corrigido autoeat",
-			   "",
+               "Corrigido autoeat",
+               "",
                "Comando: $autopescapro"
             ]
          },
@@ -91,8 +91,8 @@
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-4.adv",
             "changelog":[
                "Redireciona reparos para o bloco de ferro na home Mkb quando a vara está quebrando e o jogador está com pouca vida e sem comida.",
-			   "Armazena varas extras (exceto a da hotbar 1) seguindo as regras de script.js e descarta as que não são armazenáveis para evitar inventário travado.",
-			   "",
+               "Armazena varas extras (exceto a da hotbar 1) seguindo as regras de script.js e descarta as que não são armazenáveis para evitar inventário travado.",
+               "",
                "Comando: $autopescapro"
             ]
          }
@@ -139,6 +139,7 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/proxysaver/v1-0.dll",
             "changelog":[
+               
             ]
          }
       }
@@ -151,57 +152,58 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v1-0.adv",
             "changelog":[
-				"Tutorial: https://youtu.be/R3I23lHv_A0",
-				"Comando: $mineracao"
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
          },
-		 "v2.0":{
+         "v2.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-0.adv",
             "changelog":[
-			 "Tutorial: https://youtu.be/R3I23lHv_A0",
-			 "Comando: $mineracao"
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
          },
-		 "v2.1":{
+         "v2.1":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-1.adv",
             "changelog":[
-			 "Ajustado a velocidade de mineração",
-			 "Adicionado auto restart da macro",
-			 "",
-			 "Tutorial: https://youtu.be/R3I23lHv_A0",
-			 "Comando: $mineracao"
+               "Ajustado a velocidade de mineração",
+               "Adicionado auto restart da macro",
+               "",
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
          },
-		 "v2.2":{
+         "v2.2":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-2.adv",
             "changelog":[
-			 "Adicionado configuração de velocidade",
-			 "Corrigido bug que faz a lava bugar",
-			 "Corrigido reparação usando bloco de ferro",
-			 "Corrigido armazenamento que não guardava todos os itens",
-			 "Aprimorado Anti-lag para evitar bugar na hora de quebrar",
-			 "",
-			 "Tutorial: https://youtu.be/R3I23lHv_A0",
-			 "Comando: $mineracao"
+               "Adicionado configuração de velocidade",
+               "Corrigido bug que faz a lava bugar",
+               "Corrigido reparação usando bloco de ferro",
+               "Corrigido armazenamento que não guardava todos os itens",
+               "Aprimorado Anti-lag para evitar bugar na hora de quebrar",
+               "",
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
          },
-		 "v2.3":{
+         "v2.3":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-3.adv",
             "changelog":[
-			 "Corrigido armazenamento que andava infinitamente",
-			 "",
-			 "Tutorial: https://youtu.be/R3I23lHv_A0",
-			 "Comando: $mineracao"
+               "Corrigido armazenamento que andava infinitamente",
+               "",
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
          },
-		 "v2.4":{
+         "v2.4":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-4.adv",
             "changelog":[
-			 "Ajuste no bug de não fechar o bau quando pega picareta",
-			 "",
-			 "Tutorial: https://youtu.be/R3I23lHv_A0",
-			 "Comando: $mineracao"
+               "Ajuste no bug de não fechar o bau quando pega picareta",
+               "",
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
             ]
+         }
       }
    },
    {
@@ -212,6 +214,7 @@
          "v1.0":{
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/vip/v1-0.dll",
             "changelog":[
+               
             ]
          }
       }
