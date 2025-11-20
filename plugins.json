@@ -69,6 +69,14 @@
                "Corrigido problema de guardar os itens",
                "Comando: $autopescapro"
             ]
+         },
+         "v3.3":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-3.adv",
+            "changelog":[
+               "Corrigido armazenamento",
+			   "Corrigido autoeat",
+               "Comando: $autopescapro"
+            ]
          }
       }
    },
