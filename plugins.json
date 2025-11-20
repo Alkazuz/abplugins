@@ -86,6 +86,15 @@
 			   "",
                "Comando: $autopescapro"
             ]
+         },
+         "v3.4":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-4.adv",
+            "changelog":[
+               "Redireciona reparos para o bloco de fome na home Mkb quando a vara está quebrando e o jogador está com pouca vida e sem comida.",
+			   "Armazena varas extras (exceto a da hotbar 1) seguindo as regras de script.js e descarta as que não são armazenáveis para evitar inventário travado.",
+			   "",
+               "Comando: $autopescapro"
+            ]
          }
       }
    },
