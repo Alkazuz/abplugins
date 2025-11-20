@@ -145,6 +145,19 @@
 			 "Tutorial: https://youtu.be/R3I23lHv_A0",
 			 "Comando: $mineracao"
             ]
+         },
+		 "v2.2":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-2.adv",
+            "changelog":[
+			 "Adicionado configuração de velocidade",
+			 "Corrigido bug que faz a lava bugar",
+			 "Corrigido reparação usando bloco de ferro",
+			 "Corrigido armazenamento que não guardava todos os itens",
+			 "Aprimorado Anti-lag para evitar bugar na hora de quebrar",
+			 "",
+			 "Tutorial: https://youtu.be/R3I23lHv_A0",
+			 "Comando: $mineracao"
+            ]
          }
       }
    },
