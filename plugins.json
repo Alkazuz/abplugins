@@ -167,6 +167,15 @@
 			 "Tutorial: https://youtu.be/R3I23lHv_A0",
 			 "Comando: $mineracao"
             ]
+         },
+		 "v2.3":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-3.adv",
+            "changelog":[
+			 "Corrigido armazenamento que andava infinitamente",
+			 "",
+			 "Tutorial: https://youtu.be/R3I23lHv_A0",
+			 "Comando: $mineracao"
+            ]
          }
       }
    },
