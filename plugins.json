@@ -193,7 +193,15 @@
 			 "Tutorial: https://youtu.be/R3I23lHv_A0",
 			 "Comando: $mineracao"
             ]
-         }
+         },
+		 "v2.4":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-4.adv",
+            "changelog":[
+			 "Ajuste no bug de não fechar o bau quando pega picareta",
+			 "",
+			 "Tutorial: https://youtu.be/R3I23lHv_A0",
+			 "Comando: $mineracao"
+            ]
       }
    },
    {
