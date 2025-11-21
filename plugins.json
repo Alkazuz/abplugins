@@ -95,6 +95,14 @@
                "",
                "Comando: $autopescapro"
             ]
+         },
+         "v3.5":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/pesca/v3-5.adv",
+            "changelog":[
+               "Adicionado opção para auto restart",
+               "",
+               "Comando: $autopescapro"
+            ]
          }
       }
    },
@@ -199,6 +207,15 @@
             "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-4.adv",
             "changelog":[
                "Ajuste no bug de não fechar o bau quando pega picareta",
+               "",
+               "Tutorial: https://youtu.be/R3I23lHv_A0",
+               "Comando: $mineracao"
+            ]
+         },
+         "v2.5":{
+            "url":"https://github.com/Alkazuz/abplugins/raw/refs/heads/main/mineracao/v2-5.adv",
+            "changelog":[
+               "Ajustado bug ao pegar picareta se não haver no inventário",
                "",
                "Tutorial: https://youtu.be/R3I23lHv_A0",
                "Comando: $mineracao"
